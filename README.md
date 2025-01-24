@@ -1,4 +1,6 @@
 # Project CodeClarity
+Handles Java, Python, and enterprise COBOL programs
+
 ![alt text](architecture.png)
 
 # Running
